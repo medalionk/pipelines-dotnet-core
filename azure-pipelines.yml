@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: prod
+  name: test
 
 variables:
   buildConfiguration: 'Release'
